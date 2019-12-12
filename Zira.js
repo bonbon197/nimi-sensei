@@ -47,7 +47,7 @@ class Zira {
     this.bot.on('ready', () => {
       this.Logger.Success(this.bot.user.username, 'Cluster Ready', `Cluster ${this.id}`);
       this.bot.editStatus({
-        name: `SHUTTING DOWN - zira.pw/invite - USE MAIN INSTANCE | ${process.env.PREFIX}help`,
+        name: `Yeet`,
         type: 0,
       });
       setInterval(this.utils.postStats, 5000, this);
