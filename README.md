@@ -27,3 +27,4 @@ Installing Zira is easy. This fork is slightly different from the original Zira 
 4. Run `git submodule init` and `git submodule update` to get the language files
 
 5. Start the bot with `npm start`
+# nimiiiiiiiiiiii
