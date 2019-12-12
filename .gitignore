@@ -64,4 +64,5 @@ pm2.json
 
 .vs*
 
+#yarn lock
 yarn.lock
