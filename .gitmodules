@@ -1,4 +1,4 @@
 [submodule "lang"]
 	path = lang
-	url = https://github.com/ZiraDiscord/Translations.git
-	branch = bot
+	url = https://github.com/bonbon197/nimi-sensei/Translations.git
+	branch = master
