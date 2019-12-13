@@ -1,7 +1,7 @@
 {
   "name": "zira",
   "version": "1.0.0",
-  "description": "Zira is a reaction role Discord bot that allows users to give themselves roles by reacting on messages with an emoji/emote.",
+  "description": "yeet",
   "main": "Zira.js",
   "scripts": {
     "start": "node Cluster.js"
@@ -19,9 +19,9 @@
   "author": "HazedSPaCEx (Hazed SPaCEx#2574)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ZiraDiscord/Zira/issues"
+    "url": "https://github.com/bonbon197/nimi-sensei/issues"
   },
-  "homepage": "https://github.com/ZiraDiscord/Zira#readme",
+  "homepage": "https://github.com/bonbon197/nimi-sensei#readme",
   "dependencies": {
     "bufferutil": "^4.0.0",
     "disnode-logger": "0.2.1",
