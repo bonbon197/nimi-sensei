@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/bonbon197/nimi-sensei#readme",
   "dependencies": {
+    "node": "10.15.3",
     "bufferutil": "^4.0.0",
     "disnode-logger": "0.2.1",
     "dotenv": "^6.0.0",

@@ -66,3 +66,6 @@ pm2.json
 
 #yarn lock
 yarn.lock
+.gitmodules
+
+lang
