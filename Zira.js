@@ -9,8 +9,6 @@ const DB = require('./src/DB.js');
 const Utils = require('./src/Utils.js');
 const IPC = require('./src/IPC.js');
 
-var http = require('http'); http.createServer(function (req, res) { res.writeHead(200, {'Content-Type': 'text/plain'}); res.send('it is running\n'); }).listen(process.env.PORT || 8080);
-
 class Zira {
   constructor({
     firstShardID,
@@ -49,7 +47,7 @@ class Zira {
     this.bot.on('ready', () => {
       this.Logger.Success(this.bot.user.username, 'Cluster Ready', `Cluster ${this.id}`);
       this.bot.editStatus({
-        name: `Yeet`,
+        name: `woke`,
         type: 0,
       });
       setInterval(this.utils.postStats, 5000, this);

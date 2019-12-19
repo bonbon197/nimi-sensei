@@ -2,7 +2,7 @@ FROM node
 
 WORKDIR /usr/src/app
 
-RUN git clone https://github.com/bonbon197/nimi-sensei.git . \
+RUN git clone https://github.com/NotSylver/Zira.git . \
     && git submodule init \
     && git submodule update
 
